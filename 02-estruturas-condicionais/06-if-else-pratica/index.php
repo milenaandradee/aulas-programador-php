@@ -67,7 +67,4 @@ if ($tipoDeMoradia === "apartamento" && $tempoDisponivel === "pouco") {
 }
 
 // exercício prático
-
-$tipoDePersonagem = 
-$prefereForçaOuMagia =
-$trabalhaEmGrupo = 
+ 
