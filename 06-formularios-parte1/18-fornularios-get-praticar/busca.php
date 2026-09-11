@@ -10,8 +10,11 @@
     <form action="index.php" method="GET">
         <label for="livro">Procure pelo titulo do livro</label>
         <input type="text" name="livro" id="livro">
+
         <br>
+
         <button type="submit">Buscar</button>
 </form>
+
 </body>
 </html>
