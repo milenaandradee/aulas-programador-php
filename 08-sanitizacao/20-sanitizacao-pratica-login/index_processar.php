@@ -21,6 +21,7 @@ $email = filter_input(INPUT_POST, "email", FILTER_VALIDATE_EMAIL);
 
 if(!$email){
     echo "<p>Informe um email válido</p>";
+    die;
 }else{
     echo"<p>email validado</p>";
 }
